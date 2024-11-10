@@ -1,0 +1,578 @@
+[
+  {
+    "gender": "Male",
+    "occupation": "Engineer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Engineer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Nurse",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Nurse",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Teacher",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Teacher",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Scientist",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Scientist",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "CEO",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "CEO",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Pilot",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Pilot",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Secretary",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Secretary",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Police Officer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Police Officer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Chef",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Chef",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Librarian",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Librarian",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Engineer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Engineer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Nurse",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Nurse",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Teacher",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Teacher",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Scientist",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Scientist",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "CEO",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "CEO",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Pilot",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Pilot",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Secretary",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Secretary",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Police Officer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Police Officer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Chef",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Chef",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Librarian",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Librarian",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Engineer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Engineer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Nurse",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Nurse",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Teacher",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Teacher",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Scientist",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Scientist",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "CEO",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "CEO",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Pilot",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Pilot",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Secretary",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Secretary",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Police Officer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Police Officer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Chef",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Chef",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Librarian",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Librarian",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Engineer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Engineer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Nurse",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Nurse",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Teacher",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Teacher",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Scientist",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Scientist",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "CEO",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "CEO",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Pilot",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Pilot",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Secretary",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Secretary",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Police Officer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Police Officer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Chef",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Chef",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Librarian",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Librarian",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Engineer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Engineer",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Nurse",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Nurse",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Teacher",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Teacher",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Scientist",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Scientist",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "CEO",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "CEO",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Pilot",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Pilot",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Female",
+    "occupation": "Secretary",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Male",
+    "occupation": "Secretary",
+    "stereotype": false,
+    "non-stereotype": true
+  },
+  {
+    "gender": "Male",
+    "occupation": "Police Officer",
+    "stereotype": true,
+    "non-stereotype": false
+  },
+  {
+    "gender": "Female",
+    "occupation": "Police Officer",
+    "stereotype": false,
+    "non-stereotype": true
+  }
+]
