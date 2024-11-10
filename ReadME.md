@@ -2,7 +2,7 @@
 
 This project analyzes biases present in large language models such as BERT and Word2Vec. The project is divided into two parts:
 
-1. **MLM Probing**: Intrinsic bias analysis is performed on masked language models (MLM), using the "NLP Fairness for India" dataset from Google, within an Indian social context.
+1. **MLM Probing**: Intrinsic bias analysis is performed on BERT, using the "NLP Fairness for India" dataset from Google, within an Indian social context.
 2. **WEAT Analysis**: Bias is further analyzed using the Word Embedding Association Test (WEAT) on Google’s pre-trained Word2Vec model.
 
 ## Project Structure
